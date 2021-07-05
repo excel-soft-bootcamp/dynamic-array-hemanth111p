@@ -19,15 +19,6 @@ namespace DynamicNumberArrayApplication
 
 
         }
-
-
-        public int Set
-        {
-            get
-            {
-                return buffer.Length;
-            }
-        }
         
         public int this[int index]
         {
